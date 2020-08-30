@@ -19,8 +19,7 @@ public class RPS {
         		
         		
         		
-//                boolean meny = true;
-//                boolean playGame = true;
+
                 
                 
         System.out.println("Hej. vill du spela mot Datorn eller en vän?");
@@ -154,59 +153,7 @@ public class RPS {
             
             {
             
-                
-
-//                if (playerPick.equals(".") || playerPick.equals("o") || playerPick.equals("x")) {
-//                    System.out.println("Du valde: " + utils.checkPickedValue(playerPick));
-//                    String computerPick = computerOptions[random.nextInt(computerOptions.length)];
-//                    System.out.println("Datorn valde: " + utils.checkPickedValue(computerPick));
-//
-//                    if (utils.isPlayerWinner(playerPick, computerPick)) {
-//                        player.setScore(1);
-//                        System.out.println("Poäng denna rundan: du " + player.getScore() + " - " + computer.getScore() + " Datorn");
-//
-//                        if (player.getScore() == 3) {
-//                            player.setWins(1);
-//                            System.out.println("Du vann!!! Antal segrar: Du " + player.getWins() + " - " + computer.getWins() + " Datorn");
-//                            player.resetScore();
-//                            computer.resetScore();
-//                        }
-//
-//                    } else if (utils.isPlayerWinner(computerPick, playerPick)) {
-//                        computer.setScore(1);
-//                        System.out.println("Poäng denna rundan du: " + player.getScore() + " - " + computer.getScore() + " Datorn");
-//
-//                        if (computer.getScore() == 3) {
-//                            computer.setWins(1);
-//                            System.out.println("Datorn vann!\nTotalt antal segrar: Du " + player.getWins() + " - " + computer.getWins() + " Datorn");
-//                            player.resetScore();
-//                            computer.resetScore();
-//                        }
-//
-//                    } else {
-//                        System.out.println("Lika, dra igen");
-//                    }
-//
-//                } else if (playerPick.equals("Q") || playerPick.equals("q")) {
-//                    System.out.println("Du har valt att avsluta spelet");
-//                    
-//               
-//               
-//                    
-//                    
-//                } else {
-//                	{
-//                	System.out.println("Fel input, testa igen"); 
-//                	playGame = false;
-//                   
-//                    sc.close();
-//                    playerPick = sc.nextLine();
-//                    break;
-                
-                
-                
-                
-                
+  
                 
                 }
                 
